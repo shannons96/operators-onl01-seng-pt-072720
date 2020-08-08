@@ -1,11 +1,11 @@
 def unsafe? (speed)
  
  if speed >60 
-     puts true
+   true
  if speed <40 
-   puts true 
+   true 
  else
-    puts false
+   false
  end
 end 
 
