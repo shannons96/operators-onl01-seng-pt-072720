@@ -1,5 +1,6 @@
 def unsafe?(speed)
-unsafe = 
+unsafe = 30 
+
 end
 
 
