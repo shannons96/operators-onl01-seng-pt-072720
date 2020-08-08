@@ -1,8 +1,8 @@
 def unsafe? (speed)
  
- if speed < 40 
+ if speed >60 
      puts true
- if speed > 60 
+ if speed <40 
    puts true 
  else
     puts false
